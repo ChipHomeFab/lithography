@@ -13,20 +13,6 @@ The use of spin coating in organic electronics and nanotechnology is widespread 
 
 This guide aims to introduce general spin coating concepts, cover spin coating equations and theory, and describe some of the specific techniques useful in organic electronics and nanotechnology.
 
-[
-
-Spin Coater
-
-![](https://cdn.shopify.com/s/files/1/0823/0287/products/spin-coater-featured-image_100x.jpg?v=1625217019)
-
--   Vacuum-Free Design
--   Compact Size
--   No Substrate Warping
-
-Available From 11.760 lei
-
-](https://www.ossila.com/products/spin-coater)[](https://www.ossila.com/products/spin-coater)
-
 ### Contents
 
 * * * * *
@@ -397,20 +383,6 @@ Syringe pumps are especially effective when dealing with dispensing multiple sol
 -   When surface washing. The washing of the top surface of a deposited layer where the surface of a dry or a semi-dry film can be washed with a solvent in order to alter the properties of the upper surface and improve morphological structure. This can be done when depositing PEDOT:PSS, the post deposition washing with solvents such as methanol or DMSO can significantly improve the conductivity of the film.
 -   For quenching of deposited films. Quenching of films is done by flooding the drying film with an anti-solvent causing the material in solution to rapidly precipitate. Syringe pumps excel in these situations as you can not only time when the quenching occurs but also the rate at which it happens something that is impossible to do accurately during manual deposition.
 
-[
-
-Spin Coating Kit
-
-![](https://cdn.shopify.com/s/files/1/0823/0287/products/Spin-Coater-and-Syringe-Pump-product_photo_100x.jpg?v=1556811108)
-
--   Controllable Dispense Rates
--   Accurate Timing
--   Unbeatable Value
-
-Available From 21.840 lei
-
-](https://www.ossila.com/products/spin-coater-syringe-pump-bundle)[](https://www.ossila.com/products/spin-coater-syringe-pump-bundle)
-
 ### Ultra-low Spin Speeds and Covered Drying
 
 As mentioned above, spin coating below around 1000 rpm, the uniformity of films begins to be affected and below about 500 rpm this can cause significant issues. However, it is still possible to process films at speeds even lower than this and still get good results - albeit at the expense of consistency.
@@ -670,21 +642,6 @@ For some solutions (e.g. colloidal solutions, polymer solutions, or solutions cl
 
 For these types of materials, final film thickness will not always be proportional to the inverse square of the spin speed - so film thickness can be difficult to predict, and final films are not always level. Due to their diverse range of behaviours, non-Newtonian solutions can present a significant challenge when it comes to the deposition of highly-uniform films.
 
-[
-
-Spin Coater
-
-![](https://cdn.shopify.com/s/files/1/0823/0287/products/spin-coater-featured-image_100x.jpg?v=1625217019)
-
--   Vacuum-Free Design
--   Large Range of Speeds
--   Programmable
-
-Available From 11.760 lei
-
-](https://www.ossila.com/products/spin-coater)[](https://www.ossila.com/products/spin-coater)
-
-Keep Reading...
 ---------------
 
 * * * * *
